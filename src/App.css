@@ -478,7 +478,7 @@ justify-content: center;
 {
     overflow: hidden;
     transition: 1s;
-    height: 100vh;
+    height: 300px;
     background-color: white;
 }
 
