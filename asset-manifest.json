@@ -1,22 +1,32 @@
 {
   "files": {
-    "main.css": "/wdr/static/css/main.ffd25a2e.css",
-    "main.js": "/wdr/static/js/main.b64bf7a8.js",
+    "main.css": "/wdr/static/css/main.75fb9d2e.css",
+    "main.js": "/wdr/static/js/main.634bbd87.js",
     "static/js/156.9c61d1f4.chunk.js": "/wdr/static/js/156.9c61d1f4.chunk.js",
+    "static/media/i1.jpg": "/wdr/static/media/i1.4c579dc19ffa17ff0364.jpg",
+    "static/media/russia.gif": "/wdr/static/media/russia.2d4c98bfc2a2449c858e.gif",
+    "static/media/italy.gif": "/wdr/static/media/italy.f0fecfb8db0f8c3a1124.gif",
+    "static/media/paris.gif": "/wdr/static/media/paris.a410712b338b1b3a3a20.gif",
+    "static/media/dubai.gif": "/wdr/static/media/dubai.c6b21284dc68d23e5f5b.gif",
+    "static/media/swit.gif": "/wdr/static/media/swit.541dadaec6c7a79b16ed.gif",
     "static/media/img2.gif": "/wdr/static/media/img2.2c31a97ef775c8f49130.gif",
     "static/media/img5.gif": "/wdr/static/media/img5.319376a8eb1978dbb310.gif",
     "static/media/img1.gif": "/wdr/static/media/img1.fb059878855bae49fc26.gif",
     "static/media/img4.gif": "/wdr/static/media/img4.3649e170be71695996da.gif",
     "static/media/img3.gif": "/wdr/static/media/img3.f86710db6fb8bf520de3.gif",
     "static/media/logo.gif": "/wdr/static/media/logo.1ba775235f6e73b71c72.gif",
+    "static/media/Walk.gif": "/wdr/static/media/Walk.84fed2e46dcd383d7a16.gif",
+    "static/media/bag.png": "/wdr/static/media/bag.d8c2738c44d3000acfaa.png",
+    "static/media/x1.png": "/wdr/static/media/x1.b7aaa1b49626713cd15b.png",
+    "static/media/x2.png": "/wdr/static/media/x2.452467904526a4c8d019.png",
     "static/media/logo.svg": "/wdr/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/wdr/index.html",
-    "main.ffd25a2e.css.map": "/wdr/static/css/main.ffd25a2e.css.map",
-    "main.b64bf7a8.js.map": "/wdr/static/js/main.b64bf7a8.js.map",
+    "main.75fb9d2e.css.map": "/wdr/static/css/main.75fb9d2e.css.map",
+    "main.634bbd87.js.map": "/wdr/static/js/main.634bbd87.js.map",
     "156.9c61d1f4.chunk.js.map": "/wdr/static/js/156.9c61d1f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffd25a2e.css",
-    "static/js/main.b64bf7a8.js"
+    "static/css/main.75fb9d2e.css",
+    "static/js/main.634bbd87.js"
   ]
 }
