@@ -1,5 +1,6 @@
 import React, {useState} from 'react'
 import '../App.css';
+import { unmountComponentAtNode } from 'react-dom';
 export default function Foot() {
 
 
@@ -32,21 +33,26 @@ export default function Foot() {
         document.getElementById('clp').style.height="20px";
     
         document.getElementById('btm-hide').style.display="flex";
-       }
+
     
       
     }
 
+  }
 
 
 
 
-
-
+  window.scroll({
+    top:0,
+    left:0,
+    behaviour:'smooth',
+});
 
 
 
   return (
+    
   
   <>
 

@@ -66,10 +66,10 @@ const doiu = () =>
       <nav class="navbar" >
       <div class="l-nav">
         <ul class="nav-list">
-          <li class="hov"><Link to="/">Home</Link></li>
-          <li class="hov"><Link to="/places">Locations</Link></li>
-          <li class="hov"><a href="#abt-us">About</a></li>
-          <li class="hov"><a href="#clp">Contact us</a></li>
+          <li class="hov"><Link to="/" className='hha'>Home</Link></li>
+          <li class="hov"><Link to="/places" className='hha'>Locations</Link></li>
+          <li class="hov"><Link to="/about" className='hha'>About</Link></li>
+          <li class="hov"><Link to="/contact" className='hha'>Contact us</Link></li>
         </ul>
       </div>
       <div class="r-nav">
@@ -87,8 +87,8 @@ const doiu = () =>
       <ul class="nav-list-collapse">
         <li class="hov"><Link to="/" onClick={doiu}>Home</Link></li>
         <li class="hov"><Link to="/places" onClick={doiu}>locations</Link></li>
-        <li class="hov"><a href="#abt-us" onClick={doiu}>About</a></li>
-        <li class="hov"><a href="#clp" onClick={doiu}>Contact us</a></li>
+        <li class="hov"><Link to="/about" onClick={doiu}>About</Link></li>
+        <li class="hov"><Link to="/contact" onClick={doiu}>Contact us</Link></li>
       </ul>
     </div>
 
