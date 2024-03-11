@@ -1259,6 +1259,7 @@ justify-content: center;
 #clp 
 {
     overflow: hidden;
+
   
     height: 80vh;
     width: 100vw;
@@ -1266,6 +1267,11 @@ justify-content: center;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
+    transition: 1s;
+    height: 300px;
+    background-color: white;
+
 }
 
 .abt-us
